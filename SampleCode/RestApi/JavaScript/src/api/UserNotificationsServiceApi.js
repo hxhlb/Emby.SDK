@@ -15,7 +15,7 @@ import UserNotificationInfo from '../model/UserNotificationInfo';
 /**
 * UserNotificationsService service.
 * @module api/UserNotificationsServiceApi
-* @version 4.9.3.0
+* @version 4.9.5.0
 */
 export default class UserNotificationsServiceApi {
 

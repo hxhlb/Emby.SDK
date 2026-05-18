@@ -16,7 +16,7 @@ import QueryResultBaseItemDto from '../model/QueryResultBaseItemDto';
 /**
 * GenresService service.
 * @module api/GenresServiceApi
-* @version 4.9.3.0
+* @version 4.9.5.0
 */
 export default class GenresServiceApi {
 

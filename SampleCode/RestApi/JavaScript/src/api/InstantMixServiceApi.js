@@ -15,7 +15,7 @@ import QueryResultBaseItemDto from '../model/QueryResultBaseItemDto';
 /**
 * InstantMixService service.
 * @module api/InstantMixServiceApi
-* @version 4.9.3.0
+* @version 4.9.5.0
 */
 export default class InstantMixServiceApi {
 

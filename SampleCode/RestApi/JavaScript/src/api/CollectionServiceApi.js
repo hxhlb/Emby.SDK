@@ -15,7 +15,7 @@ import CollectionsCollectionCreationResult from '../model/CollectionsCollectionC
 /**
 * CollectionService service.
 * @module api/CollectionServiceApi
-* @version 4.9.3.0
+* @version 4.9.5.0
 */
 export default class CollectionServiceApi {
 
